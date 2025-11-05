@@ -76,3 +76,12 @@ Every commit is a step, every diff is a reflection, every tag is a memory.
 ### 🪩 License
 Unless otherwise noted, all contents (text, code, and media) are © 2025 Yoji Yamagami (BabySnake).  
 Please contact for collaboration or reuse permissions.
+
+---
+
+### Journal
+2025-11-05 最初のコミット。今日は8:30-18:30まで、フルタイムで勤務したが、こうやってGitHubと向き合っている。1ヶ月前だと考えられないが。焦らず、たゆまず、ぼちぼちいこう。
+
+*2025-11-05 — First Commit.*  
+*After working from 8:30 to 18:30, I sat down to face GitHub for the first time.  
+A month ago, I couldn’t have imagined this step. Slow and steady — that’s the rhythm I’ll follow.*
