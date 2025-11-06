@@ -85,3 +85,6 @@ Please contact for collaboration or reuse permissions.
 *2025-11-05 — First Commit.*  
 *After working from 8:30 to 18:30, I sat down to face GitHub for the first time.  
 A month ago, I couldn’t have imagined this step. Slow and steady — that’s the rhythm I’ll follow.*
+
+2025-11-07 昨日、疲れ切っていてコミットできなかったが、朝起きてエディタを開いた。とりあえず動作している！今夜またなにか発見を記述できたらいいな。
+
