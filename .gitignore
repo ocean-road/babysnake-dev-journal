@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# その他
+.idea/
+.vscode/
